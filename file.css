@@ -1,7 +1,8 @@
 h1 {
-    color: red;
+    color: yellow
+    ;
 }
 
 body {
-    background-color: rgb(175, 221, 206);
+    background-color : rgb(175, 221, 206);
 }
